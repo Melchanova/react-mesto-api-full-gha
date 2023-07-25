@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stefaniafrolovafrolov/express-mesto-gha-main.git"
+    "url": "git+https://github.com/Melchanova/express-mesto-gha-main.git"
   },
   "keywords": [],
-  "author": "Frolov Vadim",
+  "author": "Melchanova Marianna",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stefaniafrolovafrolov/express-mesto-gha-main/issues"
+    "url": "https://github.com/Melchanova/express-mesto-gha-main/issues"
   },
-  "homepage": "https://github.com/stefaniafrolovafrolov/express-mesto-gha-main#readme",
+  "homepage": "https://github.com/Melchanova/express-mesto-gha-main#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.2",
